@@ -2,8 +2,9 @@
 
 int main(){
 
-	int t = 0;
-	int i = 10
+	int t = 100;
+	int i = 100;
+	int j = 100;
 	return 0;
 
 }
